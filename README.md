@@ -3,7 +3,6 @@
 💼 Elia Giolli
 🌐 Front-End Developer Junior · React & TypeScript Enthusiast
 📍 Pisa, Italia
-📧 elia.giolli@email.com · GitHub · LinkedIn
 💬 Parlo IT · EN · ES · DE · RU · ZH · JP
 
 🧑‍💻 Chi Sono
