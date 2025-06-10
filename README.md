@@ -1,63 +1,68 @@
-# Benvenuti nel mio profilo GitHub!
-## Permettetemi di introdurmi brevemente
+# Welcome to my GitHub profile!
+### Let me briefly introduce myself
 💼 Elia Giolli
-🌐 Front-End Developer Junior · React & TypeScript Enthusiast
-📍 Pisa, Italia
-💬 Parlo IT · EN · ES · DE · RU · ZH · JP
+🌐 Junior Front-End Developer · React & TypeScript Enthusiast
+📍 Pisa, Italy
+💬 I speak: IT · EN · ES · DE · RU · ZH · JP · PL · PT · FR
 
-🧑‍💻 Chi Sono
-Front-end developer in transizione dal mondo del customer service e del turismo, con solide basi in React, TypeScript e Tailwind CSS. Ho un background accademico in lingue straniere, ma la mia vera passione è la creazione di interfacce moderne, accessibili e responsive.
-Curioso, metodico e in continua evoluzione. Imparo in fretta, amo sperimentare e lavoro con attenzione ai dettagli.
+## 🧑‍💻 About Me
+I'm a front-end developer transitioning from roles in customer service and tourism. I have a strong foundation in React, TypeScript, and Tailwind CSS.
+Although my academic background is in foreign languages, my true passion lies in building modern, accessible, and responsive web interfaces.
+
+I’m curious, methodical, and constantly evolving. I learn quickly and love working with attention to detail.
 
 ## 🧪 Tech Stack
-- *Framework & Librerie*: React 19, TypeScript, React Router, React Hook Form, Context API
+Frameworks & Libraries: React 19, Vue 3, Angular 19 (basic), TypeScript, React Router, Redux Toolkit, React Hook Form, Context API, Pinia, Vue Router
 
-- *Styling*: Tailwind CSS v4, CSS Modules
+- **Styling**: Tailwind CSS v4, CSS Modules, SCSS, Radix UI, Material UI
 
-- *Tooling*: Vite, Git & GitHub
+- **Tooling**: Vite, Git & GitHub, Docker (basic)
 
-- *Animazioni/UI*: React Icons, React Typed, React-Scroll, React-Parallax
+- **UI & Animation**: React Icons, React Typed, React Scroll, React Parallax, Framer Motion
 
-- *API e Altro*: REST APIs, EmailJS, localStorage, useReducer, useRef(base)
+- **APIs & Other**: REST APIs, EmailJS, localStorage, useReducer, useRef (basic)
 
-- *Lingue*: Italiano (nativo), Inglese (C1), Spagnolo/ Russo (B2),Tedesco/ Cinese / Giapponese (intermedio)
+- **Languages**: Italian (native), English (C1), Spanish / Russian (B2), German / Chinese / Japanese (intermediate)
 
-## 👨‍💼 Esperienze Professionali
-- Addetto di Scalo / Lost&Found – Aeroporto di Pisa (Galileo Galilei)
-Consulta SpA · Agosto 2022 – Novembre 2022 / Aprile 2024 – Agosto 2024
+## 👨‍💼 Work Experience
+Passenger Service & Lost & Found Agent – Pisa Airport (Galileo Galilei)
+Consulta SpA · Aug 2022 – Nov 2022 / Apr 2024 – Aug 2024
 
-Assistenza e coordinamento passeggeri agli arrivi internazionali
+- Assisted and coordinated international arrivals
 
-Supporto operativo agli agenti di rampa
+- Supported ramp agents in daily airport operations
 
-Gestione bagagli smarriti e relazione diretta con il pubblico
-- 💡 Soft skills acquisite: Problem-solving, comunicazione multilingua, gestione dello stress, teamwork
+- Managed lost luggage and provided multilingual customer support
 
-## 🎓 Formazione
-- Laurea Triennale in Lingue e Letterature Straniere
-Università di Pisa (PI) · Conseguimento: 2019
+💡 Key Soft Skills Gained: Problem-solving, multilingual communication, stress management, teamwork
 
-- Diploma di Perito Tecnico - Informatica e Telecomunicazioni
-ITIS G. Marconi, Pontedera (PI) · Conseguito: 2014
+## 🎓 Education
+Bachelor's Degree in Foreign Languages and Literatures
+University of Pisa (IT) · Graduated: 2019
 
-## 🚀 Obiettivi
-Attualmente sto approfondendo:
+High School Diploma – IT & Telecommunications
+ITIS G. Marconi, Pontedera (PI) · Graduated: 2014
+
+## 🚀 Current Goals
+I'm currently focusing on:
 
 - Vue.js
 
-- Next.js 14 & SEO avanzata
+- Next.js 14 & advanced SEO
 
-- Testing con Jest & React Testing Library
+- Testing with Jest & React Testing Library
 
-- Internazionalizzazione (i18next)
+- Internationalization (i18next)
 
+- React and Vue design patterns
 
-## 📎 Altri Dettagli
-Disponibile a stage o tirocini formativi
+- Better integration with backend's RestAPIs
 
-Valuto anche progetti freelance o collaborazioni su progetti open source
+## 📎 Additional Info
+Open to internships or entry-level opportunities
 
-Amo imparare, leggere, creare e condividere ciò che so
+Available for freelance projects or open source collaborations
 
-🎯 Ready to build, learn, and grow. Un passo alla volta. Ma sempre avanti.
+Passionate about learning, building, and sharing knowledge
 
+🎯 Ready to build, learn, and grow — one step at a time.
