@@ -50,13 +50,13 @@ I'm currently focusing on:
 
 - Next.js 14 & advanced SEO
 
-- Testing with Jest & React Testing Library
+- Testing with Vitest & React Testing Library
 
 - Internationalization (i18next)
 
 - React and Vue design patterns
 
-- Better integration with backend's RestAPIs
+- Backend with Express.js and MongoDB
 
 ## 📎 Additional Info
 Open to internships or entry-level opportunities
