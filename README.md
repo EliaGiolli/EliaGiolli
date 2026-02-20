@@ -1,12 +1,12 @@
 # Welcome to my GitHub profile!
 ### Let me briefly introduce myself
 💼 Elia Giolli
-🌐 Junior Front-End Developer · React & TypeScript Enthusiast
+🌐 Junior Front-End Developer · React & Angular Enthusiast
 📍 Pisa, Italy
 💬 I speak: IT · EN · ES · DE · RU · ZH · JP · PL · PT · FR
 
 ## 🧑‍💻 About Me
-I'm a front-end developer transitioning from roles in customer service and tourism. I have a strong foundation in React, TypeScript, and Tailwind CSS.
+I'm a front-end developer transitioning from roles in customer service and tourism. I have a strong foundation in React, Angular, TypeScript, and Tailwind CSS.
 Although my academic background is in foreign languages, my true passion lies in building modern, accessible, and responsive web interfaces.
 
 I’m curious, methodical, and constantly evolving. I learn quickly and love working with attention to detail.
