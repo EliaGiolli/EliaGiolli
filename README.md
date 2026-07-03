@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Elia Giolli 👋</h1>
-<h3 align="center">Jr Sysadmin | Network Administrator in progress | IT Support Specialist</h3>
+<h3 align="center">IT Support | Help Desk | Service Desk | Networking (CCNA in progress)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Pisa%2C%20Italy-1BA0D7?style=flat-square">
