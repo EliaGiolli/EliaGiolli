@@ -1,60 +1,255 @@
-# Hi, I'm Elia Giolli 👋
+# 👋 Hi, I'm Elia Giolli
 
-### Backend Engineer | Node.js, TypeScript & NestJS Specialist
+### 🧑‍💻 Frontend Engineer · Angular Specialist · TypeScript · RxJS
 
-![Location](https://img.shields.io/badge/📍-Italy-1BA0D7?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Backend%20Architecture%20%26%20Clean%20Code-success?style=flat-square)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eliagiolli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliagiolli)
-[![Email](https://img.shields.io/badge/Email-eliagiolli22%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eliagiolli22@gmail.com)
+<p align="left">
+  <a href="https://angular.dev/">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
+  <a href="https://rxjs.dev/">
+    <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Backend Engineer focused on building scalable, secure, and maintainable server-side applications using **Node.js**, **TypeScript**, and **NestJS**. 
+I'm a **Frontend Engineer** focused on building **scalable, modular, maintainable, and high-performance web applications**.
 
-I specialize in **software architecture** (Layered / Hexagonal Architecture, SOLID principles), **relational database modeling** (PostgreSQL, ACID transactions), and **asynchronous workflows** (Redis, BullMQ). 
+My main ecosystem revolves around **Angular, TypeScript, and RxJS**, with a strong interest in frontend architecture, reactive programming, application performance, and clean software design.
 
-Having a solid technical background in systems, networking, and IT infrastructure allows me to design APIs with a deep understanding of HTTP lifecycle, network security, containerization (Docker), and database performance.
+```text
+Frontend Engineering
+│
+├── 🅰️ Angular
+│   ├── Component Architecture
+│   ├── Signals
+│   ├── Reactive Forms
+│   ├── Routing
+│   └── Lazy Loading
+│
+├── 📘 TypeScript
+│   ├── SOLID Principles
+│   ├── Design Patterns
+│   └── Type-safe Architecture
+│
+├── 🔄 Reactive Programming
+│   ├── RxJS
+│   ├── NgRx
+│   └── State Management
+│
+└── ⚡ Performance
+    ├── Change Detection
+    ├── Bundle Optimization
+    ├── Caching
+    └── Code Splitting
+```
+
+My background in **systems, networking, and IT infrastructure** also gives me a broader perspective on how frontend applications communicate with the systems behind them.
+
+This includes a practical understanding of:
+
+* 🌐 HTTP lifecycle and REST APIs
+* 🚀 Client-side performance and caching
+* 🔐 Web security fundamentals
+* 🛡️ XSS / CSRF mitigation
+* 🔑 Authentication and authorization
+* 🧩 HTTP Interceptors and Route Guards
+* 🔌 API integration and error handling
+* 🏗️ Distributed application architecture
 
 ---
 
-## 🛠️ Backend Tech Stack
+## 🛠️ Tech Stack
 
-**Core & Frameworks**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+### 🅰️ Core & Frameworks
 
-**Databases, ORM & Caching**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
+</p>
 
-**Architecture, Security & DevOps**
-![REST APIs](https://img.shields.io/badge/RESTful%20APIs-000000?style=flat-square)
-![JWT & OAuth2](https://img.shields.io/badge/Security-JWT%20%2F%20RBAC-red?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jest](https://img.shields.io/badge/Testing-Jest%20%2F%20Supertest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Swagger](https://img.shields.io/badge/OpenAPI-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+### 🔄 State Management & Reactive UI
+
+<p>
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS"/>
+  <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white" alt="NgRx"/>
+  <img src="https://img.shields.io/badge/Signals-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular Signals"/>
+  <img src="https://img.shields.io/badge/Reactive_Forms-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular Reactive Forms"/>
+</p>
+
+### 🏗️ Architecture & Engineering
+
+| Area                     | Technologies / Concepts                                             |
+| ------------------------ | ------------------------------------------------------------------- |
+| 🧩 Architecture          | Component-Driven Design, Modular Architecture, SOLID                |
+| 🏢 Frontend Architecture | Micro-frontends, Feature Modules, Shared Libraries                  |
+| 🔄 State                 | RxJS, NgRx, Angular Signals                                         |
+| 🚦 Navigation            | Angular Router, Guards, Resolvers                                   |
+| 🔌 Communication         | REST APIs, HTTP, Interceptors                                       |
+| 🔐 Security              | XSS / CSRF Prevention, Authentication, Authorization                |
+| ⚡ Performance            | Lazy Loading, Code Splitting, Change Detection, Bundle Optimization |
+| 🧪 Quality               | Unit Testing, Type Safety, Maintainable Code                        |
+| 🔧 Tooling               | Git, npm, Angular CLI, ESLint                                       |
 
 ---
 
-## 📂 Featured Backend Projects
+## 📂 Featured Projects
 
-- 🛡️ **[enterprise-ecommerce-backend](https://github.com/EliaGiolli)** — Modular NestJS API with Multi-role RBAC Auth (JWT), PostgreSQL + Prisma, Redis caching, BullMQ background jobs, and Docker Compose orchestration. Fully tested (Jest) and documented via Swagger.
-- ⚡ **[realtime-websocket-service](https://github.com/EliaGiolli)** — Microservice handling real-time data streaming and event-driven communication using NestJS Gateways and Redis Pub/Sub.
+### 🌐 `portfolio-elia-angular`
+
+**Personal developer portfolio built with Angular.**
+
+A frontend project focused on clean component architecture, responsive design, reusable UI elements, and dynamic routing.
+
+**Highlights**
+
+`Angular` · `TypeScript` · `Responsive UI` · `Component Architecture` · `Routing`
+
+---
+
+### 📚 `shelfspot-angular`
+
+**Angular application for book cataloging and management.**
+
+Designed around modular components and state-driven UI interactions, with an emphasis on maintainability and a clean separation of responsibilities.
+
+**Highlights**
+
+`Angular` · `TypeScript` · `RxJS` · `State Management` · `Modular Architecture`
+
+---
+
+### 📊 `zenith-dashboard-angular`
+
+**Modern analytics and management dashboard.**
+
+A data-oriented Angular application featuring reactive forms, dynamic visualizations, reusable components, and customizable layouts.
+
+**Highlights**
+
+`Angular` · `TypeScript` · `RxJS` · `Reactive Forms` · `Data Visualization`
+
+---
+
+## 🚧 Currently Building
+
+### 📖 BookGraph
+
+A full-stack ecosystem designed around complex relationships between books, authors, genres, and other entities.
+
+```text
+                    ┌──────────────────────┐
+                    │     BookGraph UI     │
+                    │       Angular        │
+                    └──────────┬───────────┘
+                               │
+                         REST / HTTP
+                               │
+                    ┌──────────▼───────────┐
+                    │    BookGraph API     │
+                    │        NestJS        │
+                    └──────────┬───────────┘
+                               │
+                    ┌──────────▼───────────┐
+                    │     PostgreSQL       │
+                    │      TypeORM         │
+                    └──────────────────────┘
+```
+
+### Backend
+
+* 🟢 NestJS
+* 🗄️ PostgreSQL
+* 🔗 TypeORM
+* 🔐 JWT Authentication
+* 🌐 REST API
+* 🔎 Advanced search and filtering
+
+### Frontend
+
+* 🅰️ Angular
+* 📘 TypeScript
+* 🔄 RxJS
+* 🧠 Reactive state management
+* 🔐 Authentication flows
+* 🔎 Custom search and filtering
+* 🧩 Modular component architecture
 
 ---
 
 ## 🌍 Languages
 
-| Language | Level |
-| --- | --- |
-| 🇮🇹 Italian | Native |
-| 🇬🇧 English | C1 |
-| 🇷🇺 Russian | C1 |
-| 🇪🇸 Spanish | C1 |
+|     Language     |  Level |
+| :--------------: | :----: |
+| 🇮🇹 **Italian** | Native |
+| 🇬🇧 **English** |   C1   |
+| 🇷🇺 **Russian** |   B2   |
+| 🇪🇸 **Spanish** |   B2   |
+
+---
+
+## 🎯 What I Care About
+
+```text
+🏗️ Clean Architecture
+        +
+🧩 Maintainable Components
+        +
+🔄 Reactive Programming
+        +
+⚡ Performance
+        +
+🔐 Security
+        +
+📈 Continuous Learning
+        ↓
+   Better Frontend Systems
+```
+
+I'm particularly interested in **frontend architecture and the engineering decisions behind large-scale applications**, rather than simply making interfaces look good.
+
+I enjoy understanding how systems work underneath the UI and using that knowledge to build frontend applications that are easier to maintain, test, scale, and evolve.
+
+---
+
+## 📈 Engineering Focus
+
+| Focus                   | What I'm Exploring                                          |
+| ----------------------- | ----------------------------------------------------------- |
+| 🅰️ Angular             | Modern Angular architecture, Signals, standalone components |
+| 🔄 Reactive Programming | RxJS patterns, streams, state synchronization               |
+| 🏗️ Architecture        | Modular systems, micro-frontends, scalable frontend design  |
+| ⚡ Performance           | Rendering, caching, bundle optimization, Core Web Vitals    |
+| 🔐 Security             | Secure authentication, authorization, browser security      |
+| 🧠 Software Design      | SOLID, design patterns, separation of concerns              |
+| 🌐 Full Stack           | Angular + NestJS + PostgreSQL                               |
+
+---
+
+## 💡 Engineering Philosophy
+
+> **Build systems that are easy to understand today and easy to change tomorrow.**
+
+I value **clarity over unnecessary complexity**, strong abstractions where they provide real value, and pragmatic engineering decisions that keep applications maintainable as they grow.
+
+---
+
+<p align="center">
+
+### 🧑‍💻 Frontend Engineering · 🅰️ Angular · 📘 TypeScript · 🔄 RxJS
+
+**Always learning. Always building.**
+
+</p>
