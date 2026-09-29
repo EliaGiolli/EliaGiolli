@@ -1,255 +1,133 @@
-# 👋 Hi, I'm Elia Giolli
+<h1 align="center">Hi, I'm Elia Giolli 👋</h1>
+<h3 align="center">IT Support | Help Desk | Service Desk | Networking</h3>
 
-### 🧑‍💻 Frontend Engineer · Angular Specialist · TypeScript · RxJS
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Pisa%2C%20Italy-1BA0D7?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-success?style=flat-square">
+</p>
 
-<p align="left">
-  <a href="https://angular.dev/">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  </a>
-  <a href="https://rxjs.dev/">
-    <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/eliagiolli"><img src="https://img.shields.io/badge/LinkedIn-eliagiolli-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:eliagiolli22@gmail.com"><img src="https://img.shields.io/badge/Email-eliagiolli22%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/eliagiolli"><img src="https://img.shields.io/badge/GitHub-eliagiolli-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **Frontend Engineer** focused on building **scalable, modular, maintainable, and high-performance web applications**.
+IT Support Technician with hands-on experience in **networking**, **Linux systems**, and **enterprise troubleshooting**, currently expanding toward **network infrastructure** and **system administration**.
 
-My main ecosystem revolves around **Angular, TypeScript, and RxJS**, with a strong interest in frontend architecture, reactive programming, application performance, and clean software design.
+I bring a background in **full-stack software development** to the table — a combination that's less common than it sounds, and genuinely useful: understanding how applications, databases, and client-server communication work under the hood makes it faster for me to trace an issue back to its real cause, whether it's a misconfigured switch port, a broken ACL, or a backend service that can't reach its database.
 
-```text
-Frontend Engineering
-│
-├── 🅰️ Angular
-│   ├── Component Architecture
-│   ├── Signals
-│   ├── Reactive Forms
-│   ├── Routing
-│   └── Lazy Loading
-│
-├── 📘 TypeScript
-│   ├── SOLID Principles
-│   ├── Design Patterns
-│   └── Type-safe Architecture
-│
-├── 🔄 Reactive Programming
-│   ├── RxJS
-│   ├── NgRx
-│   └── State Management
-│
-└── ⚡ Performance
-    ├── Change Detection
-    ├── Bundle Optimization
-    ├── Caching
-    └── Code Splitting
-```
-
-My background in **systems, networking, and IT infrastructure** also gives me a broader perspective on how frontend applications communicate with the systems behind them.
-
-This includes a practical understanding of:
-
-* 🌐 HTTP lifecycle and REST APIs
-* 🚀 Client-side performance and caching
-* 🔐 Web security fundamentals
-* 🛡️ XSS / CSRF mitigation
-* 🔑 Authentication and authorization
-* 🧩 HTTP Interceptors and Route Guards
-* 🔌 API integration and error handling
-* 🏗️ Distributed application architecture
+I'm methodical, curious, and comfortable documenting what I find — because a fix that isn't written down is a fix someone else will have to discover all over again.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Currently Building
 
-### 🅰️ Core & Frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
-</p>
-
-### 🔄 State Management & Reactive UI
-
-<p>
-  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS"/>
-  <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white" alt="NgRx"/>
-  <img src="https://img.shields.io/badge/Signals-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular Signals"/>
-  <img src="https://img.shields.io/badge/Reactive_Forms-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular Reactive Forms"/>
-</p>
-
-### 🏗️ Architecture & Engineering
-
-| Area                     | Technologies / Concepts                                             |
-| ------------------------ | ------------------------------------------------------------------- |
-| 🧩 Architecture          | Component-Driven Design, Modular Architecture, SOLID                |
-| 🏢 Frontend Architecture | Micro-frontends, Feature Modules, Shared Libraries                  |
-| 🔄 State                 | RxJS, NgRx, Angular Signals                                         |
-| 🚦 Navigation            | Angular Router, Guards, Resolvers                                   |
-| 🔌 Communication         | REST APIs, HTTP, Interceptors                                       |
-| 🔐 Security              | XSS / CSRF Prevention, Authentication, Authorization                |
-| ⚡ Performance            | Lazy Loading, Code Splitting, Change Detection, Bundle Optimization |
-| 🧪 Quality               | Unit Testing, Type Safety, Maintainable Code                        |
-| 🔧 Tooling               | Git, npm, Angular CLI, ESLint                                       |
+- 🔧 **Hands-on Cisco lab (Packet Tracer)** — a simulated enterprise network from the ground up: VLAN segmentation, secure 802.1Q trunking (with DTP disabled via `nonegotiate`), inter-VLAN routing on a Layer 3 switch (SVIs + `ip routing`), and traffic isolation with extended ACLs. Built with a focus on reasoning through *why* each configuration is needed, not just reproducing commands.
+- 📘 **CompTIA Linux+** (in progress)
+- 🌐 Deepening networking fundamentals: VLANs, trunking, STP, ARP/MAC behavior, routing tables, ACL design
 
 ---
 
-## 📂 Featured Projects
+## 🧪 Tech Stack
 
-### 🌐 `portfolio-elia-angular`
+**Networking**
+<br>
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-000000?style=flat-square)
+![VLAN](https://img.shields.io/badge/VLAN%20%2F%20802.1Q-000000?style=flat-square)
+![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=flat-square)
+![ACL](https://img.shields.io/badge/ACL%20%2F%20Routing-000000?style=flat-square)
 
-**Personal developer portfolio built with Angular.**
+**Systems & Virtualization**
+<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
-A frontend project focused on clean component architecture, responsive design, reusable UI elements, and dynamic routing.
+**Scripting & Automation**
+<br>
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**Highlights**
+**Databases**
+<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-`Angular` · `TypeScript` · `Responsive UI` · `Component Architecture` · `Routing`
+**Background in Development** *(useful context, not the current focus)*
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=flat-square)
+![OAuth2/JWT](https://img.shields.io/badge/OAuth%202.0%20%2F%20JWT-000000?style=flat-square)
 
 ---
 
-### 📚 `shelfspot-angular`
+## 👨‍💼 Work Experience
 
-**Angular application for book cataloging and management.**
+**Help Desk — Automotive Logistics Network** · Empoli (FI) / Verona · *12/2025 – 12/2025*
+- First-level technical support for the Volkswagen and MAN logistics network (warehouse → dealer → end user)
+- Troubleshooting on vertical management software: Cross, ElsaPro, PetrA
+- Documented technical issues, analyzed software misconfigurations, collaborated with upper-level technical teams
 
-Designed around modular components and state-driven UI interactions, with an emphasis on maintainability and a clean separation of responsibilities.
+**Ground Steward · Lost & Found Clerk** · *2024*
+- User support and real-time problem resolution in a fast-paced operational environment
+- Applied troubleshooting and incident-management skills on-site
+- Cross-team collaboration to keep daily operations running smoothly
 
-**Highlights**
-
-`Angular` · `TypeScript` · `RxJS` · `State Management` · `Modular Architecture`
-
----
-
-### 📊 `zenith-dashboard-angular`
-
-**Modern analytics and management dashboard.**
-
-A data-oriented Angular application featuring reactive forms, dynamic visualizations, reusable components, and customizable layouts.
-
-**Highlights**
-
-`Angular` · `TypeScript` · `RxJS` · `Reactive Forms` · `Data Visualization`
+**Full-Stack Developer (personal projects)** · *2024 – ongoing*
+- Built end-to-end web apps with REST APIs (Node.js, Express) and SQL/NoSQL databases (PostgreSQL, MongoDB)
+- Implemented secure authentication (OAuth 2.0, JWT, HttpOnly cookies)
+- *(Kept active as a technical foundation that now feeds into a deeper understanding of client-server systems, APIs, and how applications actually depend on the network underneath them.)*
 
 ---
 
-## 🚧 Currently Building
+## 🎓 Education & Certifications
 
-### 📖 BookGraph
+**Education**
+- Bachelor's Degree in Foreign Languages and Literature — University of Pisa (2019)
+- Technical High School Diploma, IT & Telecommunications — ITIS G. Marconi, Pontedera (2014)
 
-A full-stack ecosystem designed around complex relationships between books, authors, genres, and other entities.
-
-```text
-                    ┌──────────────────────┐
-                    │     BookGraph UI     │
-                    │       Angular        │
-                    └──────────┬───────────┘
-                               │
-                         REST / HTTP
-                               │
-                    ┌──────────▼───────────┐
-                    │    BookGraph API     │
-                    │        NestJS        │
-                    └──────────┬───────────┘
-                               │
-                    ┌──────────▼───────────┐
-                    │     PostgreSQL       │
-                    │      TypeORM         │
-                    └──────────────────────┘
-```
-
-### Backend
-
-* 🟢 NestJS
-* 🗄️ PostgreSQL
-* 🔗 TypeORM
-* 🔐 JWT Authentication
-* 🌐 REST API
-* 🔎 Advanced search and filtering
-
-### Frontend
-
-* 🅰️ Angular
-* 📘 TypeScript
-* 🔄 RxJS
-* 🧠 Reactive state management
-* 🔐 Authentication flows
-* 🔎 Custom search and filtering
-* 🧩 Modular component architecture
+**Certifications & Courses**
+- CompTIA Linux+ — Udemy *(in progress)*
+- Cisco Networking Basics — multiple courses
+- IT Systems Technician — Forma Temp
+- SQL Database Course — Udemy
 
 ---
 
 ## 🌍 Languages
 
-|     Language     |  Level |
-| :--------------: | :----: |
-| 🇮🇹 **Italian** | Native |
-| 🇬🇧 **English** |   C1   |
-| 🇷🇺 **Russian** |   B2   |
-| 🇪🇸 **Spanish** |   B2   |
+| Language | Level |
+|---|---|
+| 🇮🇹 Italian | Native |
+| 🇬🇧 English | C1 |
+| 🇷🇺 Russian | C1 |
+| 🇪🇸 Spanish | B2 |
+| 🇩🇪 German | B1 |
+| 🇵🇱 Polish | B1 |
 
 ---
 
-## 🎯 What I Care About
+## 🎯 Current Goals
 
-```text
-🏗️ Clean Architecture
-        +
-🧩 Maintainable Components
-        +
-🔄 Reactive Programming
-        +
-⚡ Performance
-        +
-🔐 Security
-        +
-📈 Continuous Learning
-        ↓
-   Better Frontend Systems
-```
-
-I'm particularly interested in **frontend architecture and the engineering decisions behind large-scale applications**, rather than simply making interfaces look good.
-
-I enjoy understanding how systems work underneath the UI and using that knowledge to build frontend applications that are easier to maintain, test, scale, and evolve.
+- Solidifying CCNA-level networking: VLANs, trunking, inter-VLAN routing, ACLs, STP, troubleshooting workflows
+- CompTIA Linux+ certification
+- Bridging IT support experience into a Network Administrator / Sysadmin role
+- Using the development background as an edge in environments where infrastructure and applications meet
 
 ---
 
-## 📈 Engineering Focus
+## 📎 Open To
 
-| Focus                   | What I'm Exploring                                          |
-| ----------------------- | ----------------------------------------------------------- |
-| 🅰️ Angular             | Modern Angular architecture, Signals, standalone components |
-| 🔄 Reactive Programming | RxJS patterns, streams, state synchronization               |
-| 🏗️ Architecture        | Modular systems, micro-frontends, scalable frontend design  |
-| ⚡ Performance           | Rendering, caching, bundle optimization, Core Web Vitals    |
-| 🔐 Security             | Secure authentication, authorization, browser security      |
-| 🧠 Software Design      | SOLID, design patterns, separation of concerns              |
-| 🌐 Full Stack           | Angular + NestJS + PostgreSQL                               |
+Help Desk, IT Support, Junior Sysadmin, and Network Administrator roles · internships · entry-level opportunities
 
----
-
-## 💡 Engineering Philosophy
-
-> **Build systems that are easy to understand today and easy to change tomorrow.**
-
-I value **clarity over unnecessary complexity**, strong abstractions where they provide real value, and pragmatic engineering decisions that keep applications maintainable as they grow.
-
----
-
-<p align="center">
-
-### 🧑‍💻 Frontend Engineering · 🅰️ Angular · 📘 TypeScript · 🔄 RxJS
-
-**Always learning. Always building.**
-
-</p>
+📫 Reach me at **eliagiolli22@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/eliagiolli)
