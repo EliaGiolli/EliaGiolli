@@ -1,6 +1,6 @@
 # Hi, I'm Elia Giolli 👋
 
-### Junior Backend Developer | Node.js · TypeScript · NestJS
+### Junior Backend Developer | Node.js · TypeScript · NestJS · Python(FastAPI)
 
 ![Location](https://img.shields.io/badge/📍-Pisa%2C%20Italy-1BA0D7?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20opportunities-success?style=flat-square)
@@ -32,6 +32,8 @@ I keep notes on what I find difficult and how I solve it, because a fix that isn
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Frameworks**
 <br>
